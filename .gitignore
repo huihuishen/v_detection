@@ -1,0 +1,30 @@
+#忽略所有文件夹和文件，必须放在开头
+/*
+#排除src文件夹
+!/.gitignore
+#排除src文件夹
+!/src
+#排除docs文件
+!/LICENSE
+#排除README.md文件
+!/README.md
+
+
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
